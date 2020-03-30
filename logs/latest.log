@@ -1,0 +1,28 @@
+[00:05:21] [Server thread/WARN]: xLOONAVERSE moved wrongly!
+[00:05:42] [Server thread/INFO]: Jem lost connection: Disconnected
+[00:05:42] [Server thread/INFO]: Jem left the game
+[00:19:06] [Server thread/WARN]: dubudubuuu moved wrongly!
+[00:19:29] [Server thread/INFO]: seaning lost connection: Disconnected
+[00:19:29] [Server thread/INFO]: seaning left the game
+[00:19:31] [Server thread/INFO]: seaning[/0:0:0:0:0:0:0:1:52151] logged in with entity id 7424 at (-22.6460957163786, 67.5, -183.9561832665802)
+[00:19:31] [Server thread/INFO]: seaning joined the game
+[00:22:34] [Server thread/WARN]: xLOONAVERSE moved wrongly!
+[00:58:55] [Server thread/INFO]: <dubudubuuu> INAANTOK NA ME
+[01:00:53] [Server thread/INFO]: dubudubuuu lost connection: Disconnected
+[01:00:53] [Server thread/INFO]: dubudubuuu left the game
+[01:01:25] [Server thread/INFO]: seaning lost connection: Disconnected
+[01:01:25] [Server thread/INFO]: seaning left the game
+[01:01:27] [Server thread/INFO]: xLOONAVERSE lost connection: Disconnected
+[01:01:27] [Server thread/INFO]: xLOONAVERSE left the game
+[01:01:34] [Server thread/INFO]: Stopping server
+[01:01:34] [Server thread/INFO]: Saving players
+[01:01:34] [Server thread/INFO]: Saving worlds
+[01:01:34] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[01:01:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:01:34] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[01:01:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:01:34] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[01:01:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:01:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:01:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:01:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
